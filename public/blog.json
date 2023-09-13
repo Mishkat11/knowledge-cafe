@@ -1,7 +1,9 @@
+
+
 [
     {
         "id": 1,
-        "cover": "https://i.ibb.co/9wGSk69/desk-concept-frame-with-copy-space.jpg",
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
         "title": "Top 10 ES6 Features You Must Know",
         "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
         "author": "Hamza Sohail",
@@ -14,7 +16,7 @@
     },
     {
         "id": 2,
-        "cover": "https://i.ibb.co/vd3CLVk/view-desk-items-frame-with-copy-space.jpg",
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
         "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
         "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
         "author": "Sajal Ali",
@@ -28,7 +30,7 @@
     },
     {
         "id": 3,
-        "cover": "https://i.ibb.co/4YHjRsc/top-view-desk-concept-with-coffee.jpg",
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
         "title": "Component lifecycle in React — Class component vs Functional component",
         "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
         "author": "Feroze Khan",
@@ -41,7 +43,7 @@
     },
     {
         "id": 4,
-        "cover": "https://i.ibb.co/qFzJ3wb/close-up-hand-with-painting-pallete.jpg",
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
         "title": "Free images and resources collection for website",
         "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
         "author": "Anmol Baloch",
